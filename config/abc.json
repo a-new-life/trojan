@@ -1,8 +1,8 @@
 [
    {
-   "module" : "dislister"
+   "module" : "dirlister"
    },
    {
-   "module" : "envirnment"
+   "module" : "environment"
    }
 ]
